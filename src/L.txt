@@ -1,0 +1,9 @@
+#Language Definition
+F,G,+,-
+#Terminal Symbols
++,-
+#Expression for production - AXIOM
+F-G-G
+#Production rules
+F,F-G+F+G-F
+G,GG
